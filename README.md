@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm astro! 👋
+
+[![An image of @astronaako's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/astronaako)](https://holopin.io/@astronaako)
 
 <!--
 **astronaako/astronaako** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
