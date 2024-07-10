@@ -1,5 +1,5 @@
 ### Hi there, I'm astro! 👋
-
+[![roadmap.sh](https://roadmap.sh/card/tall/668e768e7d03d0bb6d89b30d?variant=dark&roadmaps=aspnet-core%2Capi-design%2Cfrontend%2Cbackend)](https://roadmap.sh)
 [![An image of @astronaako's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/astronaako)](https://holopin.io/@astronaako)
 
 <!--
